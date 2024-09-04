@@ -9,9 +9,9 @@ Plano de Estudos completo para se tornar um FullStack Web Developer através de 
 ### HTML/CSS/JS VANILLA - LISTA DE TAREFAS (CRUD APP)
 **Recurso:** [Learn Web Development By Building a CRUD App | HTML CSS & JavaScript](https://www.youtube.com/watch?v=bnTdSbCDsmA)
 
-## MERN STACK
-
 ### REACT - MOVIES SEARCH WEB APP
 **Recurso:** [React JS Full Course 2023 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 
-Em progresso...
+## Em progresso... 
+
+**Entenda a próxima parte** [No-Nonsense Backend Engineering Roadmap](https://youtu.be/4UgbU0nzprg)
