@@ -1,12 +1,17 @@
 # Project-Based-Fullstack-Roadmap
-Plano de Estudos completo para se tornar um FullStack Web Developer através de projetos!
+Plano de Estudos completo para se tornar um FullStack Web Developer através de vídeos gratuitos do youtube.
 
-# Roadmap de Aprendizado Baseado em Projetos para Desenvolvimento Web Full Stack na Era da IA
+## FUNDAMENTOS
 
-Este roadmap apresenta uma abordagem de aprendizado baseada em projetos para se tornar um desenvolvedor web full stack, incorporando tecnologias modernas e práticas de IA.
+### GIT - PARA USAR EM TODOS OS PROJETOS
+**Recurso:** [Git and GitHub Crash Course For Beginners | Complete Tutorial 2024](https://www.youtube.com/watch?v=l2yrJtwoC_E)
 
-## Método Gradual (branch "gradual"): 
-**Objetivo:** Foco em se especializar em uma tecnologia antes de avaçar para outra.
+### HTML/CSS/JS VANILLA - LISTA DE TAREFAS (CRUD APP)
+**Recurso:** [Learn Web Development By Building a CRUD App | HTML CSS & JavaScript](https://www.youtube.com/watch?v=bnTdSbCDsmA)
 
-## Método Pareto (branch "pareto"): 
-**Objetivo:** Aprendizado holístico, evoluindo a camada de complexidade a cada novo projeto.
+## MERN STACK
+
+### REACT - MOVIES SEARCH WEB APP
+**Recurso:** [React JS Full Course 2023 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
+
+Em progresso...
